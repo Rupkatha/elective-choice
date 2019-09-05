@@ -1,0 +1,44 @@
+Software Requirement Specification
+
+Project Plan: Elective Choice
+
+1.Overview: This document lays down the project requirements for the software "elective choice" to be developed by Rupkatha Hira, Manish Kumar, Mohanee Dammu and Faruque Iqbal.
+The software helps in the allotment of elective courses to students based on their order of preference and cgpa.
+
+2.Users: Students who are offered the choice of elective subjects in their course.
+
+3.Functionalities:
+->The users should be able to choose their order of preference among the given electives.
+->Required constraints(e.g., students of certain departments barred from choosing certain electives) should be applied.
+->Space for personal information of the students such as name, enrolment number, department, etc., required for subsequent identification should be marked as necessary fields.
+->Provision for (optional) feedback should be present.
+->Allotment of electives should be on the basis of cgpa of the students and their preference list, i.e., students with higher cgpa would be more likely to be allotted an elective subject higher up in their preference list.
+->Maximum number of seats for each elective subject should be taken into account.
+
+4.Scheduling and estimates:
+Milestone description           		Due date             Delivered by
+	
+M1: Application view and Design			31.08.19	     Mohanee Dammu
+   (Front-end development)
+
+
+
+
+M2: Database for application			01.09.19	     Faruq Iqbal
+    (Back-end development)
+
+
+
+M3: Integrating views and Designs		02.09.19	     Mohanee Dammu
+
+
+
+M4: Implementing Algorithm for Allotment	04.09.19	     Manish Kumar, Rupkatha Hira
+
+
+
+M5: Code Review					06.09.19	     Faruq Iqbal
+
+
+
+M6: Testing					07.09.19	     Manish Kumar, Rupkatha Hira
