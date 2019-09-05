@@ -30,12 +30,12 @@ M2: Database for application			01.09.19	     Faruq Iqbal
 
 
 
-M3: Implementing Algorithm for Allotment	04.09.19	     Manish Kumar, Rupkatha Hira
+M3: Implementing Algorithm for Allotment	02.09.19	     Manish Kumar, Rupkatha Hira
 
 
 
 
-M4: Integrating views and Designs		02.09.19	     Mohanee Dammu
+M4: Integrating views and Designs		04.09.19	     Mohanee Dammu
 
 
 
