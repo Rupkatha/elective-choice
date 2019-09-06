@@ -5,7 +5,9 @@ Project Plan: Elective Choice
 1.Overview: This document lays down the project requirements for the software "elective choice" to be developed by Rupkatha Hira, Manish Kumar, Mohanee Dammu and Faruque Iqbal.
 The software helps in the allotment of elective courses to students based on their order of preference and cgpa.
 
-2.Users: Students who are offered the choice of elective subjects in their course.
+2.Users: 
+->Students who are offered the choice of elective subjects in their course.
+->Authorized personnel to feed information into the software.
 
 3.Functionalities:
 ->The users should be able to choose their order of preference among the given electives.
